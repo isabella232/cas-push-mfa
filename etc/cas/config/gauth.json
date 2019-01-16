@@ -1,0 +1,23 @@
+[
+  "java.util.TreeSet",
+  [
+    {
+      "@class": "org.apereo.cas.otp.repository.credentials.OneTimeTokenAccount",
+      "username": "casuser",
+      "secretKey": "X6L5DRDT2V43WNOX",
+      "validationCode": 642725,
+      "scratchCodes":
+      [
+        "java.util.ArrayList",
+        [
+          65226557,
+          40240592,
+          34510383,
+          54641992,
+          66573737
+        ]
+      ],
+      "id": 1547618511055
+    }
+  ]
+]

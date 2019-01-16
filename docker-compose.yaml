@@ -1,0 +1,12 @@
+version: "3.1"
+
+services:
+  cas:
+    build: .
+    ports:
+     - 8443:8443
+    volumes:
+     - /dev/urandom:/dev/random
+
+#  mongodb:
+#    image: mongo:4.0
